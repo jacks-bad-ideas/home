@@ -30,6 +30,10 @@ body{
     height: 35px;
     padding: 0 1em;
 }
+.btn1{
+    float: left;
+    height: 35px;
+}
 .color{
     padding: 0 .25em;
     width: 100px;
