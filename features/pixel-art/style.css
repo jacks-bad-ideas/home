@@ -31,7 +31,7 @@ body{
     padding: 0 1em;
 }
 .btn1{
-    float: left;
+    left: 0;
     height: 35px;
     padding: 0 1em;
 }
