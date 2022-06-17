@@ -33,6 +33,7 @@ body{
 .btn1{
     float: left;
     height: 35px;
+    padding: 0 1em;
 }
 .color{
     padding: 0 .25em;
