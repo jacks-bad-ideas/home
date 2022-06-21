@@ -14,7 +14,12 @@ body{
     flex-direction: column;
 }
 
-.navbar, .container{
+.container{
+    background-color: rgb(91, 91, 91);
+    width: 800px;
+    border-radius: 3px;
+}
+.navbar{
     background-color: rgb(61, 61, 61);
     width: 800px;
     border-radius: 3px;
